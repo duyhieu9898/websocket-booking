@@ -16,7 +16,7 @@ npm install
 
 ## config path environment at file .env
 
-##serve with hot reload at localhost:3303
+## serve with hot reload at localhost:3303
 ```bash
 node server.js
 ```
