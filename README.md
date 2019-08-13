@@ -8,15 +8,15 @@
 ###### details at: [Link To GitHub](https://github.com/duyhieu9898/manager_motel_laravel)
 ## Build Setup
 
-###### install dependencies
+## install dependencies
 ```bash
 npm install
 ```
-###### install redis server
+## install redis server
 
-###### config path environment at file .env
+## config path environment at file .env
 
-###### serve with hot reload at localhost:3303
+##serve with hot reload at localhost:3303
 ```bash
 node server.js
 ```
