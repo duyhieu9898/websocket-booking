@@ -18,5 +18,5 @@ npm install
 
 ## serve with hot reload at localhost:3303
 ```bash
-node server.js
+npm start
 ```
